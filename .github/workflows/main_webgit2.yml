@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'webgit2'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_612559d796cd465fae2b5d3bf18e4d67 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c9528f9db27b4297b64fe1579702bbdf }}
         package: .
